@@ -209,7 +209,7 @@ Public Class Kaze_Calc
             A = txtA.Text
             B = txtB.Text
             txtAns.Text = A / B
-            txtS.Text = "÷"
+            txtS.Text = "ï¿½"
         End If
     End Sub
 
@@ -221,7 +221,7 @@ Public Class Kaze_Calc
             A = txtA.Text
             B = txtB.Text
             txtAns.Text = A * B
-            txtS.Text = "×"
+            txtS.Text = "ï¿½"
         End If
     End Sub
 
